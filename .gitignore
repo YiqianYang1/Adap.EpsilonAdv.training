@@ -1,0 +1,15 @@
+**/__pycache__
+**/.ipynb_checkpoints
+**/*.log
+**/*.env
+venv/
+.env/
+miniconda3/
+.DS_Store
+Thumbs.db
+*.pyc
+*.pyo
+tf-logs/
+data/
+*.tmp
+*.swp
